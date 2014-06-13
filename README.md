@@ -15,7 +15,7 @@ DEMO :
 
 Add this to the web page .
 
-<script type="text/javascript" src="example.com/oblivion.js"></script>
+&lt;script type=&quot;text/javascript&quot; src=&quot;example.com/oblivion.js&quot;&gt;&lt;/script&gt;
 
 ------------------------------------
 
